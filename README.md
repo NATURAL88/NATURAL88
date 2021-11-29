@@ -1,7 +1,7 @@
 # Just found out how to *format* `Markdown`. Now I have cool big title 👍
 ## Smaller header because why not
 ##### Anyways here's some cool things about me
-- 👋 Hi, I’m @NATURAL88 (very cool and not lame and cool 😎), I am a sophomore at my High School.
+- 👋 Hi, I’m @NATURAL88 (very cool and not lame and cool 😎), I am a sophomore and I think that's pretty cool.
 - 👀 I’m interested in, computers, gameing (gameing not gaming, there's a difference) and overall cool things.
 - 🌱 I’m currently learning javascript in my AP Computer Science Principles class, but I also know some python and a bit of C# but not enough to say I'm good at it
 - 💞️ I’m looking to *maybe* collaborate on some small things here and there. 
